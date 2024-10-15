@@ -3,8 +3,7 @@
 
 New server values just dropped
 
-***Changelog:
-***
+# Changelog
 Hideout:
 - Fuel consumption rate reduced by ~7%
 - Air filter consumption rate reduced by ~16%
