@@ -17,7 +17,8 @@ Insurance:
 - Prapor insurance return chance changed from 85% to 75%
 - Dynamic insurance prices.
      - Prapor price multiplier reduces as LLv increases, Therapist Increases.<br>
-<br>| Trader Level | Therapist | Prapor |
+## Insurance Price Change Table
+| Trader Level | Therapist | Prapor |
 |---|---|---|
 | LL1 | x20% | x20% |
 | LL2 | x23% | x18% |
