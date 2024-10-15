@@ -20,7 +20,7 @@ File storage for the guys to share and edit
 Releases.. info... placeholder text.. lorem ipsum, and so on and so forth
 
 
-Server Value Update:
+### Server Value Update:
 
 New server values just dropped
 
