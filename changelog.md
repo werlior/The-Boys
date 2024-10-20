@@ -50,3 +50,4 @@ Small changes to the amount of loot, loot scales with the difficulty of the map.
 
 ### Bosses:
 - Changed all boss spawns to default rate (temporary)
+
