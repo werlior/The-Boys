@@ -50,9 +50,5 @@ Small changes to the amount of loot, loot scales with the difficulty of the map.
 - Increased THICC Weapon Case size from 90 to 128 squares.
 - Increased SICC Case size from 25 to 41 squares.
 
-
 ### Bosses:
 - Changed all boss spawns to default rate (temporary)
-
-
-
