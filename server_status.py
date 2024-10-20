@@ -1,4 +1,4 @@
-#
+#This is here for informational purposes. Since this is a public repository, I have redacted the WAN IP and webhook URL, so this will be non-functional for anyone else
 
 import socket
 import requests
