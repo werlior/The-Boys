@@ -1,4 +1,4 @@
-### 2 This is a test for the automatic changelog updating script with discord webhook-bot integration
+### 3 This is a test for the automatic changelog updating script with discord webhook-bot integration
 
 ### Server Value Update:
 
