@@ -16,6 +16,8 @@ File storage for the guys to share and edit
 - [Unity Toolkit](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/)
 - [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
 
+- [Whitelist tool](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip)
+
 
 [Helpful Links](https://github.com/werlior/The-Boys/blob/main/Helpful%20Links.md)
 Releases.. info... placeholder text.. lorem ipsum, and so on and so forth
