@@ -1,7 +1,7 @@
 # The-Boys
 File storage for the guys to share and edit
 
-# Tarkov
+# Tarkov Download List
 [SPT](https://sp-tarkov.com/#download) <br><br>
 [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't. <br><br>
 ### Links to mods:
