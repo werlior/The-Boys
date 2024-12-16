@@ -18,3 +18,13 @@ File storage for the guys to share and edit
 
 [Helpful Links](https://github.com/werlior/The-Boys/blob/main/Helpful%20Links.md)
 Releases.. info... placeholder text.. lorem ipsum, and so on and so forth
+
+
+### Hosting as Client
+1. Close SPT if running.
+2. Download [this](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip) file.
+3. Extract into your SPT root directory
+4. Run the program, press "1". Allow it to complete, then close.
+5. Open SPT, navigate to F12 menu > `FikaCore` click "Reset" on *both* `ForceIP` and `Force Bind IP`
+
+If you still can't host after this, ensure UPnP is Disabled within your router configs.
