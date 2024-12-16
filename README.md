@@ -5,7 +5,7 @@ File storage for the guys to share and edit
 [SPT](https://sp-tarkov.com/#download) <br><br>
 [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't. <br><br>
 ### Links to mods:
-- [Fika Plugin (Client)](https://github.com/project-fika/Fika-Server/releases/tag/v2.3.2) (Updated 16-DEC-2024)
+- [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.0.5.0) (Updated 16-DEC-2024)
 - [Waypoints](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-navmesh/)
 - [SWAG+Donuts](https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
