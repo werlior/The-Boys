@@ -1,22 +1,22 @@
 # Tarkov
 ### Go to [Releases](link.link) for automatic download. (WIP)<br><br><br>
-### Download List (Manual download)
-- [SPT](https://sp-tarkov.com/#download) <br>
-- [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't. <br>
+## Download List (Manual download)
 
-### Links to mods:
+### Neccesary Client Mods:
+- [SPT](https://sp-tarkov.com/#download) <br>
+- [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't.
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.0.5.0)
 - [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/)
 - [Unity Toolkit](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/)
 
-### Optional Mods
+### Optional Client Mods
 - [AutoDeposit (Terraria quick stack)](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
 
 ### Mods that only I'm using (server only)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
-- [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview) added.
-- [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/) added.
-- [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/) added.
+- [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview)
+- [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/)
+- [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/)
 - [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [MOAR](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/#tab_a632c3fc09ef599d49595c714839f984b9122871)
 - [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
