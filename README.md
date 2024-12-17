@@ -6,8 +6,8 @@ File storage for the guys to share and edit
 [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't. <br><br>
 ### Links to mods:
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.0.5.0) (Updated 16-DEC-2024)
-- [Waypoints](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-navmesh/)
-- [SWAG+Donuts](https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/)
+- [MOAR](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/#tab_a632c3fc09ef599d49595c714839f984b9122871)
+- 
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
 - [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [Backdoor Bandit](https://hub.sp-tarkov.com/files/file/1154-backdoor-bandit-bb/)
