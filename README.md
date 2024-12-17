@@ -6,9 +6,6 @@
 ### Links to mods:
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.0.5.0) (Updated 16-DEC-2024)
 - [MOAR](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/#tab_a632c3fc09ef599d49595c714839f984b9122871)
-- 
-
-- [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/)
 - [Unity Toolkit](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/)
 - [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
@@ -17,6 +14,10 @@
 
 ### Mods that only I'm using (server only)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
+- [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview) added.
+- [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/) added.
+- [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/) added.
+- [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 ## Hosting as Client
 1. Close SPT if running.
 2. Download [this](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip) file.
