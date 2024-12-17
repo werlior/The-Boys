@@ -1,7 +1,6 @@
-# The-Boys
-File storage for the guys to share and edit
-
-# Tarkov Download List
+# Tarkov
+### Go to [Releases](link.link) for automatic download. (WIP)<br><br><br>
+### Download List (Manual download)
 - [SPT](https://sp-tarkov.com/#download) <br>
 - [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you don't have it. The installer will let you know if you don't. <br>
 ### Links to mods:
