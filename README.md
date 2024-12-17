@@ -1,5 +1,5 @@
 # Tarkov
-### Go to [Releases](link.link) for automatic download. (WIP)<br><br><br>
+### Go to [Releases](link.link) for automatic download. (WIP)<br><br>
 ## Download List (Manual download)
 
 ### Neccesary Client Mods:
