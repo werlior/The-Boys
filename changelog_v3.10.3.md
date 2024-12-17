@@ -27,8 +27,13 @@ Go to [Releases](https://github.com/werlior/The-Boys/releases/tag/Full_Release) 
 ### Mod Changes
 - Backdoor bandit has been removed.
 - Server mods that are unnecessary for clients have been moved to their own section in order to streamline client downloading process.
-- [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview) added for immersion.
 - [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/) added for immersion.
 - [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/) added for more fair fights, and less chad PMCs with top tier gear.
 - [MOAR](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/#tab_a632c3fc09ef599d49595c714839f984b9122871) replaces SWAG+DONUTS for the purposes of bot spawning behavior.
-- [Ref - SPT Friendly Quests](https://hub.sp-tarkov.com/files/file/2108-ref-spt-friendly-quests/) added for QOL.
+
+### Small Changes
+- Increased GP coin stack from 20 to 40
+- Changed Item Case container size to 10x10 (was 8x8)
+- Removed ALL backpack restrictions.
+- Removed "Can't be dropped in raid' restrictions to certain items.
+- Many many other small changes.
