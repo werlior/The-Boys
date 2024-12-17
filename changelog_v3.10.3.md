@@ -1,6 +1,7 @@
 # SPT Update | v3.10.3
 
 ### Steps to install
+Go to [Releases](https://github.com/werlior/The-Boys/releases/tag/Full_Release) for streamlined download.
 1. Update your base game install through the BSG launcer
 2. Locate your SPT folder within your C:\ drive, delete all contents.
 3. Download a [fresh SPT installer](https://sp-tarkov.com/#download), and place it within your C:\SPT folder you just cleared.
