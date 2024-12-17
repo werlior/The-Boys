@@ -1,5 +1,5 @@
 # Tarkov
-### Go to [Releases](link.link) for automatic download. (WIP)<br><br>
+### Go to [Releases](https://github.com/werlior/The-Boys/releases/tag/Full_Release) for automatic download. (WIP)<br><br>
 ## Download List (Manual download)
 
 ### Neccesary Client Mods:
@@ -11,7 +11,6 @@
 - [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview)
 - [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/)
-- [Questing Bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots/)
 
 ### Optional Client Mods
 - [AutoDeposit (Terraria quick stack)](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
