@@ -9,3 +9,5 @@ SAIN is not currently up to date as of 06APR2025, so you can expect the bots to 
 - [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
 - [Better Thermal Optics](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7/)
 - [More Bot Names](https://hub.sp-tarkov.com/files/file/2534-bot-callsigns-reloaded/)
+
+## SVM Values
