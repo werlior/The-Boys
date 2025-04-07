@@ -2,4 +2,5 @@
 - [MapGenie](https://mapgenie.io/tarkov)
 - [Ammo Chart](https://www.eft-ammo.com/)
 - [Whitelist tool](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip)
+- [Tarkov Database (Mods)](https://hub.sp-tarkov.com/)
 
