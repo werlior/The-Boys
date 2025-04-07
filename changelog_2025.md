@@ -1,4 +1,6 @@
 # Tarkov Server Changelog for 2025.<br/>
+SAIN is not currently up to date as of 06APR2025, so you can expect the bots to be significantly more challenging inofar as their accuracy and ESP abilities. Though they will be more predictable and dumb.
+
 ## Full list of Server Mods
 - [Looting Bots](https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
