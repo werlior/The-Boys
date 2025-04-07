@@ -36,7 +36,8 @@
 
 If you still can't host after this, ensure UPnP is Disabled within your router configs.<br><br><br><br><br><br>
 
-
+## Server Information
+Check out the [latest changelog](https://github.com/werlior/The-Boys/blob/main/changelog_2025.md) to see most relevant information.
 
 ##  [Helpful Links](https://github.com/werlior/The-Boys/blob/main/Helpful%20Links.md)
 Releases.. info... placeholder text.. lorem ipsum, and so on and so forth
