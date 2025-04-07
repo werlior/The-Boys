@@ -34,7 +34,7 @@
 4. Run the program, press "1". Allow it to complete, then close.
 5. Open SPT, navigate to F12 menu > `FikaCore` click "Reset" on *both* `ForceIP` and `Force Bind IP`
 
-If you still can't host after this, ensure UPnP is Disabled within your router configs.<br><br><br><br><br><br>
+If you still can't host after this, ensure UPnP is Disabled within your router configs.<br>
 
 ## Server Information
 Check out the [latest changelog](https://github.com/werlior/The-Boys/blob/main/changelog_2025.md) to see most relevant information.
