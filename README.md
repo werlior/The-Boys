@@ -22,11 +22,6 @@
 - Change URL to: `https://73.96.13.117:6969`
 - Press arrow in top right, then create username to join.
 
-### Mods that only I'm using (server only)
-- [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
-- [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
-- [Waypoints](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-navmesh/)
-- [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/)
 ## Hosting as Client
 1. Close SPT if running.
 2. Download [this](https://github.com/Lacyway/FikaUtils/releases/tag/v1.0) file.
@@ -38,6 +33,13 @@ If you still can't host after this, ensure UPnP is Disabled within your router c
 
 ## Server Information
 Check out the [latest changelog](https://github.com/werlior/The-Boys/blob/main/changelog_2025.md) to see most relevant information.
+
+
+# Mods that only I'm using (server only) DEPRICATED
+- [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
+- [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
+- [Waypoints](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-navmesh/)
+- [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/)
 
 ##  [Helpful Links](https://github.com/werlior/The-Boys/blob/main/Helpful%20Links.md)
 Releases.. info... placeholder text.. lorem ipsum, and so on and so forth
