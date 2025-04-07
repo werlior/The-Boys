@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/63703aea-5d99-45a8-b52f-d131b75b2988)
 - Click Settings in top right
 - Enable 'Developer mode'
-- Change URL to: https://73.96.13.117:6969
+- Change URL to: `https://73.96.13.117:6969`
 - Press arrow in top right, then create username to join.
 
 ### Mods that only I'm using (server only)
