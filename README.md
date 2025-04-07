@@ -10,6 +10,10 @@
 
 ### Optional Client Mods
 - [StatTrack](https://hub.sp-tarkov.com/files/file/2501-stattrack/#overview)
+- [Terraria Quick Stack](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
+
+### Bug Fix Mods
+- [Hands are Not Busy](https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/)
 
 ### Joining The Server
 - Open SPT.Launcher<br/>![image](https://github.com/user-attachments/assets/63703aea-5d99-45a8-b52f-d131b75b2988)
