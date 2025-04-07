@@ -16,6 +16,14 @@
 ### Optional Client Mods
 - [AutoDeposit (Terraria quick stack)](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
 
+### Joining The Server
+- Open SPT.Launcher
+![image](https://github.com/user-attachments/assets/63703aea-5d99-45a8-b52f-d131b75b2988)
+- Click Settings in top right
+- Enable 'Developer mode'
+- Change URL to: https://73.96.13.117:6969
+- Press arrow in top right, then create username to join.
+
 ### Mods that only I'm using (server only)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
 - [Big Brain](https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview)
