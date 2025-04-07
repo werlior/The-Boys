@@ -7,6 +7,7 @@
 - [.NET Framework](https://dotnet.microsoft.com/en-us/download) if you don't have it. The installer will let you know if you don't.
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.2.4)
 - [Fika Plugin (Server)](https://github.com/project-fika/Fika-Server/releases/tag/v2.4.4)
+- [Better Check Marks](https://hub.sp-tarkov.com/files/file/2705-all-quests-checkmarks/)
 
 ### Optional Client Mods
 - [StatTrack](https://hub.sp-tarkov.com/files/file/2501-stattrack/#overview)
