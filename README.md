@@ -8,12 +8,14 @@
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.2.4)
 - [Fika Plugin (Server)](https://github.com/project-fika/Fika-Server/releases/tag/v2.4.4)
 - [Better Check Marks](https://hub.sp-tarkov.com/files/file/2705-all-quests-checkmarks/)
+- [Tinnitus Simulator](https://hub.sp-tarkov.com/files/file/2484-firearm-deafen-reupload/)
 
 ### Optional Client Mods
 - [StatTrack](https://hub.sp-tarkov.com/files/file/2501-stattrack/#overview)
 - [Terraria Quick Stack](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
+- [Quick Sell](https://hub.sp-tarkov.com/files/file/2318-quicksell/)
 
-### Bug Fix Mods
+### Bug Fix Mods - Not Strictly Necessary
 - [Hands are Not Busy](https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/)
 
 ### Joining The Server
