@@ -7,14 +7,9 @@
 - [.NET Framework](https://dotnet.microsoft.com/en-us/download) if you don't have it. The installer will let you know if you don't.
 - [Fika Plugin (Client)](https://github.com/project-fika/Fika-Plugin/releases/tag/v1.2.4)
 - [Fika Plugin (Server)](https://github.com/project-fika/Fika-Server/releases/tag/v2.4.4)
-- [Unity Toolkit](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/)
-- [MOAR](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/#tab_a632c3fc09ef599d49595c714839f984b9122871)
-- [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
-- [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots/#overview)
-- [Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/)
 
 ### Optional Client Mods
-- [AutoDeposit (Terraria quick stack)](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
+- 
 
 ### Joining The Server
 - Open SPT.Launcher
