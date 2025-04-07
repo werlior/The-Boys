@@ -23,7 +23,7 @@
 - [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/)
 ## Hosting as Client
 1. Close SPT if running.
-2. Download [this](https://github.com/Lacyway/FikaUtils/releases/download/v1.0/FikaUtils.zip) file.
+2. Download [this](https://github.com/Lacyway/FikaUtils/releases/tag/v1.0) file.
 3. Extract into your SPT root directory
 4. Run the program, press "1". Allow it to complete, then close.
 5. Open SPT, navigate to F12 menu > `FikaCore` click "Reset" on *both* `ForceIP` and `Force Bind IP`
