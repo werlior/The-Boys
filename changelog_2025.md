@@ -10,6 +10,7 @@ SAIN is not currently up to date as of 06APR2025, so you can expect the bots to 
 - [Better Thermal Optics](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7/)
 - [More Bot Names](https://hub.sp-tarkov.com/files/file/2534-bot-callsigns-reloaded/)
 
+
 ## Notable changes
 - Removed Backpack restrictions
 - Removed "Can't  be dropped in raid" restrictions
