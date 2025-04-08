@@ -15,7 +15,7 @@ SAIN is not currently up to date as of 06APR2025, so you can expect the bots to 
 - Removed Backpack restrictions
 - Removed "Can't  be dropped in raid" restrictions
 - Allowed holster slot for SMGs
-- Changed Fence tyo unlock at LLv 4. This means he will not have anything for sale (other than what other players on the server have sold him) until you reach max loyalty level with him.
+- Changed Fence to unlock at LLv 4. This means he will not have anything for sale (other than what other players on the server have sold him) until you reach max loyalty level with him.
 - Increased Armor skill point gain by ~70%
 - Increased Weapon Maintenance skill point gain by ~35%
 - Removed the chance for random damage to weapon upon repair.
