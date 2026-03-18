@@ -66,7 +66,7 @@
 
 ### Step 7
 - Create your username and Click `Login/Register`</br>
-- Choose `SPT Zero to hero` when prompted to create a new one. Please note that other account types have in the past caused issues and have been lost forever. Use at your own risk.</br>
+- Choose `SPT Zero to hero` when prompted to create a new one. Please note that other account types have in the past caused issues and **_have been lost forever_**. Use at your own risk.</br>
   <img width="508" height="392" alt="image" src="https://github.com/user-attachments/assets/9f2df644-47ff-4215-9f7c-a38b58597507" /></br></br>
 
 
