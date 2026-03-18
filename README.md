@@ -1,6 +1,4 @@
 # Tarkov
-### Go to [Releases](https://github.com/werlior/The-Boys/releases/tag/Full_Release) for automatic download. (WIP)<br><br>
-## Download List (Manual download)
 
 ### Neccesary Client Mods:
 - [SPT Installer](https://forge.sp-tarkov.com/installer)
@@ -15,11 +13,18 @@
 - [APBS - Acid's Progressive Bot System 2.1.5](https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system)
 - [ABPS - Acid's Bot Placement System 2.0.13](https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system)
 
-### Optional Client Mods
-- TBA
-
-### Bug Fix Mods - Not Strictly Necessary
-- TBA
-
-### Joining The Server
-- TBA
+## Joining The Server (With Pictures!)
+### Step 0
+Ensure you have Escape From Tarkov installed **AND UPDATED** on your computer.
+<img width="699" height="112" alt="image" src="https://github.com/user-attachments/assets/85113ac8-dab9-453a-a1c6-1689c41acda2" />
+### Step 1
+Create a folder in your C:\ drive and name it "SPT"</br>
+<img width="225" height="34" alt="image" src="https://github.com/user-attachments/assets/c67899cf-b7b7-4d42-92c8-2c0e499b1851" /></br>
+<img width="597" height="22" alt="image" src="https://github.com/user-attachments/assets/64c93956-993d-40d8-80a5-666a8026ff69" />
+### Step 2
+Download the first mod: [SPT Installer](https://forge.sp-tarkov.com/installer)
+Move the installer into the folder you just created
+<img width="610" height="139" alt="image" src="https://github.com/user-attachments/assets/1c45bfe7-b86a-49ef-b71f-c06db2dd8170" /></br>
+Run the installer.
+</br>
+### Step 3
